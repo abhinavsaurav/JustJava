@@ -1,3 +1,9 @@
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">JustJava</string>
+
+    <!-- Header list for the list of toppings-->
+    <string name="toppings">Toppings</string>
+    <string name="whippedCream">Whipped Cream</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="order_summary_name">Name: <xliff:g example="Amy" id="name">%s</xliff:g></string>
 </resources>
